@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, world! 👋
 
 <!--
 **mahler/mahler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
   [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](http://www.linkedin.com/in/mahler) &nbsp;&nbsp;
   [![website](https://user-images.githubusercontent.com/25087769/87173861-0aa06200-c2df-11ea-9614-da65c9c73692.png)](https://netfactory.dk) &nbsp;&nbsp;
