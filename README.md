@@ -20,7 +20,9 @@
   [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://www.twitter.com/mahler) &nbsp;&nbsp;
   
 ## It is nice to be nice...
+![mahlers's github stats](https://github-readme-stats.vercel.app/api?username=mahler)]
 
-# Blog posts
+
+# Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
