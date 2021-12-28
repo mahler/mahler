@@ -26,9 +26,9 @@
 
 # Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
-- [Sharing Team Event Photos](/posts/2021/event-photos/)
+- [Advent of code 2021](/posts/2021/adventofcode/)
+- [Sharing photos](/posts/2021/event-photos/)
 - [Looping thorugh the Alphabet in GoLang](/posts/2021/golang-for-loop-letters/)
 - [Github activity fail](/posts/2020/github-activities/)
 - [Let&#39;s Encrypt and IPv6](/posts/2020/ipv6letsencrypt/)
-- [Cronjob: Basics and reboot](/posts/2020/cronjobs/)
 <!-- BLOG-POST-LIST:END -->
