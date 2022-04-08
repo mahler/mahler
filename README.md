@@ -26,9 +26,9 @@
 
 # Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
+- [Emphemeral and immutable](/posts/2022/emphemeral-and-immutable/)
+- [Best of breed or best of suite](/posts/2022/best-of-suite-or-breed/)
 - [Advent of code 2021](/posts/2021/adventofcode/)
+- [Advent of code 2021](/posts/2022/git-for-other-stuff/)
 - [Sharing photos](/posts/2021/event-photos/)
-- [Looping thorugh the Alphabet in GoLang](/posts/2021/golang-for-loop-letters/)
-- [Github activity fail](/posts/2020/github-activities/)
-- [Let&#39;s Encrypt and IPv6](/posts/2020/ipv6letsencrypt/)
 <!-- BLOG-POST-LIST:END -->
