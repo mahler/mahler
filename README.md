@@ -26,9 +26,9 @@
 
 # Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
+- [Git for other stuff](/posts/2022/git-for-other-stuff/)
 - [Emphemeral and immutable](/posts/2022/emphemeral-and-immutable/)
 - [Best of breed or best of suite](/posts/2022/best-of-suite-or-breed/)
 - [Advent of code 2021](/posts/2021/adventofcode/)
-- [Advent of code 2021](/posts/2022/git-for-other-stuff/)
 - [Sharing photos](/posts/2021/event-photos/)
 <!-- BLOG-POST-LIST:END -->
