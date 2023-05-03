@@ -26,9 +26,9 @@
 
 # Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
+- [Show wifi password in clear](/posts/2023/show-wifi-password/)
+- [About Monorepositories](/posts/2022/monorepositories/)
 - [Git for other stuff](/posts/2022/git-for-other-stuff/)
 - [Emphemeral and immutable](/posts/2022/emphemeral-and-immutable/)
 - [Best of breed or best of suite](/posts/2022/best-of-suite-or-breed/)
-- [Advent of code 2021](/posts/2021/adventofcode/)
-- [Sharing photos](/posts/2021/event-photos/)
 <!-- BLOG-POST-LIST:END -->
