@@ -26,9 +26,9 @@
 
 # Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to the new server](/posts/2024/server-move/)
 - [Using Bruno with 1Password](/posts/2023/usebrunno-with-1password/)
 - [Show wifi password in clear](/posts/2023/show-wifi-password/)
 - [About Monorepositories](/posts/2022/monorepositories/)
 - [Git for other stuff](/posts/2022/git-for-other-stuff/)
-- [Emphemeral and immutable](/posts/2022/emphemeral-and-immutable/)
 <!-- BLOG-POST-LIST:END -->
