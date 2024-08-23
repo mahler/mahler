@@ -27,8 +27,8 @@
 # Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
 - [Welcome to the new server](/posts/2024/server-move/)
+- [Hello Tailscale, Goodbye fixed IP at home](/posts/2024/tailscale-vpn/)
+- [What&#39;s the IP number?](/posts/2024/findingipnumberlinux/)
 - [Using Bruno with 1Password](/posts/2023/usebrunno-with-1password/)
 - [Show wifi password in clear](/posts/2023/show-wifi-password/)
-- [About Monorepositories](/posts/2022/monorepositories/)
-- [Git for other stuff](/posts/2022/git-for-other-stuff/)
 <!-- BLOG-POST-LIST:END -->
