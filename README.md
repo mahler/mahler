@@ -26,9 +26,9 @@
 
 # Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading my Hiper internet &lpar;Fiber&rpar; with Ubiquiti](/posts/2025/fiber-hiper-ubiqiti/)
 - [Transcoding for local streaming](/posts/2025/transcoding-ffmeg/)
 - [Complexities of test environments in interconnected environments](/posts/2024/connected-test-environments/)
 - [Welcome to the new server](/posts/2024/server-move/)
 - [Hello Tailscale, Goodbye fixed IP at home](/posts/2024/tailscale-vpn/)
-- [What&#39;s the IP number?](/posts/2024/findingipnumberlinux/)
 <!-- BLOG-POST-LIST:END -->
