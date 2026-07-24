@@ -26,9 +26,9 @@
 
 # Most recent blog posts from Netfactory.dk
 <!-- BLOG-POST-LIST:START -->
-- [LocalSend - Share files between local devices](/posts/2026/localsend/)
-- [Upgrading my Hiper internet &lpar;Fiber&rpar; with Ubiquiti](/posts/2025/fiber-hiper-ubiqiti/)
-- [Transcoding for local streaming](/posts/2025/transcoding-ffmeg/)
-- [Complexities of test environments in interconnected environments](/posts/2024/connected-test-environments/)
-- [Welcome to the new server](/posts/2024/server-move/)
+- [MVP Illustration](https://netfactory.dk/posts/2026/mvp-illustration/)
+- [LocalSend - Share files between local devices](https://netfactory.dk/posts/2026/localsend/)
+- [Upgrading my Hiper internet &lpar;Fiber&rpar; with Ubiquiti](https://netfactory.dk/posts/2025/fiber-hiper-ubiqiti/)
+- [Transcoding for local streaming](https://netfactory.dk/posts/2025/transcoding-ffmeg/)
+- [Complexities of test environments in interconnected environments](https://netfactory.dk/posts/2024/connected-test-environments/)
 <!-- BLOG-POST-LIST:END -->
